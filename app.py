@@ -41,7 +41,8 @@ response to all past questions asked,
 and you will follow ALL of the rules below:
 
 1/ Response should be very similar or even identical to the past best responses, 
-in terms of length, tone of voice, logical arguments and other details
+in terms of length, tone of voice, logical arguments and other details, but
+always answer in complete sentences
 
 2/ If the best responses are irrelevant, then try to mimic the style of the best responses to the question
 
