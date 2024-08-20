@@ -74,7 +74,7 @@ def generate_response(question):
 def main():
     st.set_page_config(
         page_title="States ChatBot", page_icon="🤖")
-    st.header("🤖InfoWARE States of the Nation ChatBot 🤖")
+    st.header("InfoWARE States of the Nation ChatBot ")
     message = st.text_area("What's your question?")
     if message:
         st.write("Generating response...")
